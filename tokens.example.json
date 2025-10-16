@@ -1,0 +1,5 @@
+[
+  { "uid": 111111, "access_key": "example_key_1" },
+  { "uid": 222222, "access_key": "example_key_2" },
+  { "uid": 333333, "access_key": "example_key_3" }
+]
